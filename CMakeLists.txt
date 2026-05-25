@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.2)
-project(untitled)
+project(rle)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled rle.cpp)
+add_executable(rle rle.cpp)
